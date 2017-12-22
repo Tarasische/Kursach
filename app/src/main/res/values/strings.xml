@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BooleanMinimizer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_expression">Enter expression</string>
+    <string name="settings">Settings</string>
+    <string name="show_history">Show history</string>
+    <string name="show_all_cases">Show all cases</string>
+    <string name="no_history_present">No history present</string>
+    <string name="history">History</string>
+    <string name="reset_to_defaults">Reset To Defaults</string>
+    <string name="solve_option_title">Choose how to solve</string>
+    <string name="detailed_solution">Detailed solution</string>
+    <string name="delailed_solution_1">The index table of %1$d variables look like this:</string>
+    <string name="delailed_solution_2">After we strike through all unneeded indexes the table look the following:</string>
+    <string name="delailed_solution_3">The core table of all remaniing minterm is like so:</string>
+    <string name="delailed_solution_4">Next we strike through all the row where minterm incules a term (marked by X on the table) and the corresponding columns</string>
+    <string name="delailed_solution_5">Minification core is:</string>
+</resources>
